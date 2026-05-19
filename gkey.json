@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "utec-posgrado-01",
+  "private_key_id": "e38c538b0e618a96bd78dcac71812301da457e59",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDc+PBColPwR8oh\nfvl3qjaTZMxmpSm/Dp3C1UABKeC+L+HqL/K6wNICTKC40p0IFcsLq6qlYQeDfNoX\n0p91xYvXNPql8FKtVRbZQcGRs+0BYLJO1WQH4Mol1eFOKld/7xzxKo0Kn6SoUH8H\n8po/RlrwkiR7paHkHZC/8ka/VKrK2uAaM0rVmMamTV/wATP+iGHt/1OzmN5lK1jF\nQucEf1fJXw36l5z0V8hCU+8wR+EJDxHwJMV24Vd5HoZ4C+QP79qHc0bqgGeUXnAr\nvTjJn3m7+xjihc6YBHR6NDWeRGJKwuOjGD1xHiCoQ4V7bNYyiIfaRr495QZ7PDYV\nsZ4pix8VAgMBAAECggEAMweAAHtZNAd4G9UlSieyM8aW12tz4Q3Ai/JQNhSUNId9\nPeY1wT/vH53Pje8BWZEi0z6hCVEHeat2+AJpVbq5iQjQi0qc5S9dt+1SBNJOvL82\nXjM0Rwd311X1kmX/z+kJv33KlXX5ge8Y7t5tFYirTpwJNc6xvKrBNzp9cQjd6jtE\nnWPT8Ej+YM+ml9pi7QdwPxL1CWjM6vZE4rCxeuARpAz/Pg+1Vd/0SW5u8xbEfqMm\nPJ3QuADZHY+sezY3VVQTQwlcnjnGeTk7rGPyYHNf2IvE7n5d4191PJII0vjIZbkG\nimTeiU6j7wpbsfUxKo6vtNT+/sessXoCjILSoTjmLwKBgQDzN22zGnaVC9D8sIz0\n/4/qkmYW/U6NXH9INBQ8uZhtfrIeDap2OI2c3x66A4h5JXs7Jx3y9ty80+JY9kZl\nPON52nW1z4HZe6eh+GR8wGc+h20WxARD2VXW7bcZC2EpoBu+KlpldM5MGfhwDo6E\n+MTy+W5ubnnBwMamZe9lkNXNIwKBgQDoljUDwbbzLpWrNEYL59md+XrOIe5/FJxn\nbSKVw9w9119EXTnR/O7Ueu+UQxa2DgXzHzDVXJ0f5RWTt7xEe9yOsxYVHfb5SXFU\nMMyDXTLHlY1Dr4niEIClpozV/MYNvHuNTkLWykQNqo/QVKO9EklxPx4FeP0tfA5u\nHCTISeRyZwKBgQDRQJIYMx9tEpKGpVtQ+oOWnMhK5TrtMnSr6Wqz6DY1lnimlLlh\nJzznh6uG/L0xBcdlWD1TKYM2ztGCGrjsJxvLXeJCPzsHo3TRTMUf8+WgDaIUoSbO\nPTG2TiVm3byFtKPJ0+ScP4eyP/HYbx29V88TAPk697+3rCT9StxSNO9NowKBgH+5\nBLHkbegLG+uhUBn3nvxuZO7PmV213tG5D7X4kXhwTgOHwlm7MRgDzo63bMBa4Q+K\ngFGagzphncC5tCxTbGH8nFLKWra4iwB1r8kvo9QQHzwdKHW5JDxTQqG8JrKiX6LQ\naEn1Vvu+Py1jXWtVoHkM9RqCP1378xyqXdSTJ11fAoGBAOI0/1kivERSSENp76UQ\nXGftWrR3UiKaFDI09/6mcsYMqqnxRi6EYIWocV8PZRO+BskZRv4cGwXIhjGdwoC3\nALRWJOBz3hVZa+rj5SKkRUva7jDTmyMTwIY8wlZLfTUExOdyfZP1LD+wnm7p/1OV\n5Iuv88wzjBhry/gn/mRmJh+x\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-github-atrucios@utec-posgrado-01.iam.gserviceaccount.com",
+  "client_id": "112858542820617492882",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-github-atrucios%40utec-posgrado-01.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
