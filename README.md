@@ -1,7 +1,7 @@
 # 🚀 Laboratorio: Deploy Canary a Google Cloud Run con GitHub Actions
 
-> **Módulo 5 — DevOps y Automatización del SDLC**  
-> **UTEC Posgrado | Arquitectura de Soluciones Multinube**  
+> **Módulo 5 — DevOps y Automatización del SDLC**
+> **UTEC Posgrado | Arquitectura de Soluciones Multinube**
 > **Docente:** Aldo Trucios
 
 ---
